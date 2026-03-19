@@ -1,6 +1,6 @@
 ---
 title: Create Step
-category: create-step
+category: flow-step-creation
 tags:
   - workflow-creation
   - step-structure
@@ -13,10 +13,10 @@ tags:
 description: >-
   Create a new step JSON file and its corresponding action/component for an
   existing flow
-rules: []
 required_knowledge: []
+rules: []
 created: '2026-03-19T07:43:55.388Z'
-updated: '2026-03-19T07:43:55.388Z'
+updated: '2026-03-19T07:47:24.065Z'
 ---
 # Create Step
 

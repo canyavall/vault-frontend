@@ -1,6 +1,6 @@
 ---
 title: Create Backend Flow
-category: guide
+category: flow-creation
 tags:
   - backend
   - flow-creation
@@ -12,10 +12,10 @@ tags:
 description: >-
   Create a new backend flow in @nori/core with steps/ folder, step JSONs,
   actions/ folder, orchestrator, and CLAUDE.md
-rules: []
 required_knowledge: []
+rules: []
 created: '2026-03-19T07:41:26.898Z'
-updated: '2026-03-19T07:41:26.898Z'
+updated: '2026-03-19T07:47:24.420Z'
 ---
 # Create Backend Flow
 

@@ -1,6 +1,6 @@
 ---
 title: Create Frontend Flow
-category: guide
+category: flow-creation
 tags:
   - frontend-flow
   - solidjs
@@ -13,10 +13,10 @@ tags:
 description: >-
   Create a new frontend flow in @nori/app with steps/ folder, step JSONs,
   components, and CLAUDE.md
-rules: []
 required_knowledge: []
+rules: []
 created: '2026-03-19T07:43:39.391Z'
-updated: '2026-03-19T07:43:39.391Z'
+updated: '2026-03-19T07:47:24.253Z'
 ---
 # Create Frontend Flow
 
